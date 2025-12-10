@@ -1,1 +1,0 @@
-print("Pay Gorn")
